@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Yandex</string>
+    <string name="api_key_translate">trnsl.1.1.20181031T145617Z.3b659e7792134158.dc63a8b703c7d058b8306fc841b8786b925a57a4</string>
+    <string name="api_key_suggest">pdct.1.1.20181031T152206Z.e46ab1ff14b7f26d.28badbbbb336612cd556e2695c38616b942b506d</string>
+    <string name="english">English</string>
+    <string name="vie">Vietnamese</string>
+    <string name="input_text">Input your text here</string>
+    <string name="suggest_result"><![CDATA[Your mean: %s]]></string>
+    <string name="confirm_delete">Do you want to delete?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="history">History</string>
+    <string name="favorite">Favorite</string>
+    <string name="collection">Collection</string>
+</resources>
